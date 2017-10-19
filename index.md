@@ -1,2 +1,2 @@
 ### Hello
-My name is Alberto Fernández Pena. I'm a Telecommunication Engineer specialized in Software Development and Biomedical Engineering.
+Web for the 2017/18 course of Python for scientists.
